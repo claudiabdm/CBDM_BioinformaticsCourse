@@ -1,3 +1,3 @@
 # Introduction to Programming for Biologist Course
 
-Submitted answers for this course
+Submited answers for this course
