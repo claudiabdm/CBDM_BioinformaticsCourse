@@ -81,7 +81,7 @@ class SeedStock
 end
 
 ###### testing the class
-# require './gene_object2.rb'
+# require './gene_object.rb'
 # path1 = 'gene_information.tsv'
 # Gene.load_from_file(path1)
 # path2 = 'seed_stock_data.tsv'

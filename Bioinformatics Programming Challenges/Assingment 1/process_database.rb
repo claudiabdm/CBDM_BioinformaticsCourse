@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
-require './seed_stock2.rb'
-require './gene_object2.rb'
-require './cross_obj2.rb'
+require './seed_stock.rb'
+require './gene_object.rb'
+require './cross_object.rb'
 
 # check number of input files and if name are duplicated
 if ARGV.uniq.length != 4
